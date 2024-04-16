@@ -39,7 +39,7 @@ return {
       -- end
     },
     -- enable servers that you already have installed without mason
-    servers = { "rust_analyzer", "ruff", "ruff_lsp", "tsserver", "dockerls", "docker_compose_language_service" },
+    servers = {},
     -- customize language server configuration options passed to `lspconfig`
     ---@diagnostic disable: missing-fields
     config = {
