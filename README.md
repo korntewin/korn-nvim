@@ -1,8 +1,15 @@
-# AstroNvim Template
+# Personal AstroNvim Template
 
-**NOTE:** This is for AstroNvim v4+
+**NOTE:** This is for AstroNvim v4+ and Neovim v0.10
 
 A template for getting started with [AstroNvim](https://github.com/AstroNvim/AstroNvim)
+
+## Features
+
+1. Inlay hints for Rust and Typescript!  
+    > (Python inlay hint is proprietary and need to workaroud by using short cut instead)  
+2. Shortcut to display variable type in Python
+3. Debugger for Rust, Typescript, and Python
 
 ## 🛠️ Installation
 
@@ -24,7 +31,7 @@ You can also just clone this repository directly if you do not want to track you
 #### Clone the repository
 
 ```shell
-git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim
+git clone https://github.com/korntewin/korn-nvim ~/.config/nvim
 ```
 
 #### Start Neovim
