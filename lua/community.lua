@@ -16,5 +16,6 @@ return {
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.json" },
+  { import = "astrocommunity.pack.terraform" },
   -- import/override with your plugins folder
 }
